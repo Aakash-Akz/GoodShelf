@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a94"
+  },
+  "productName": "MP Sharbari Wheat Fine",
+  "oneLiner": "Makes the softer roties ever",
+  "Price": 135,
+  "Quantity": 2,
+  "sectionName": "Value Deals",
+  "Image": "https://goodshelf.app/assets/images/logo.png"
+},
+{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a95"
+  },
+  "productName": "Fresh Malai Paneer",
+  "oneLiner": "Prepared fresh daily, no preservatives",
+  "Price": 109,
+  "Quantity": 200,
+  "sectionName": "Value Deals",
+  "Image": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/020040-7269.webp"
+},
+{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a96"
+  },
+  "productName": "Authentic Mumbai Ladi Pav",
+  "oneLiner": "Iconic Mumbai style Ladi Pav at your doorstep",
+  "Price": 69,
+  "Quantity": 10,
+  "sectionName": "Value Deals",
+  "Image": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/040090-3723.webp"
+},
+{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a97"
+  },
+  "productName": "Ragi Flour",
+  "oneLiner": "Protien rich & gluten-free",
+  "Price": 135,
+  "Quantity": 2,
+  "sectionName": "Kid Friendly",
+  "Image": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/010070-5421.webp"
+},
+{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a98"
+  },
+  "productName": "Fresh Ragi Idly & Dosa Batter",
+  "oneLiner": "Freshly ground with no added preservatives",
+  "Price": 85,
+  "Quantity": 1,
+  "sectionName": "Kid Friendly",
+  "Image": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/100010-2326.webp"
+},
+{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a99"
+  },
+  "productName": "Premium Almonds California",
+  "oneLiner": "The perfect snack for on-the-go or as a healthy addition to your favorite recipes",
+  "Price": 185,
+  "Quantity": 250,
+  "sectionName": "Kid Friendly",
+  "Image": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/080020-9097.jpeg"
+},
+{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a9a"
+  },
+  "productName": "Bajra Pearl Millet Atta",
+  "oneLiner": "High fibre and nutrition",
+  "Price": 85,
+  "Quantity": 1,
+  "sectionName": "Millet Alternatives",
+  "Image": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/010040-6015.jpeg"
+},
+{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a9b"
+  },
+  "productName": "Baked Foxtail Millet Butter Chakli",
+  "oneLiner": "High-Protein chakli with millets, dal & spices",
+  "Price": 129,
+  "Quantity": 200,
+  "sectionName": "Millet Alternatives",
+  "Image": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/060190-3160.jpeg"
+},
+{
+  "_id": {
+    "$oid": "6583036bef3656f2c84d5a9c"
+  },
+  "productName": "Sour Cream Onion Barley Chips",
+  "oneLiner": "Superfood chips with barley, tapioca, lentils!",
+  "Price": 104,
+  "Quantity": 125,
+  "sectionName": "Millet Alternatives",
+  "Image": "https://goodshelf-images-s3-bucket.s3.ap-south-1.amazonaws.com/product-images/060110-6556.jpeg"
+}]
